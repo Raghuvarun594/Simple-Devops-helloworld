@@ -3,5 +3,9 @@ p{
 }
 
 p{
+   color: green;
+}
+
+h{
    color: blue;
 }
